@@ -29,6 +29,7 @@ if __name__ == "__main__":
         remove_duplicates = sys.argv[2].lower() == "yes"
     else:
         print("Se debe indicar el fichero como primer argumento")
+        print("Modificacion realizado por Desarrollador 1")
         print("El segundo argumento indica si se quieren eliminar duplicados")
         sys.exit(1)
 
