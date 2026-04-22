@@ -30,6 +30,7 @@ if __name__ == "__main__":
     else:
         print("Se debe indicar el fichero como primer argumento")
         print("Este es una pequeña modificacion - Dev2")
+        print("Modificacion realizado por Desarrollador 1")
         print("El segundo argumento indica si se quieren eliminar duplicados")
         sys.exit(1)
 
